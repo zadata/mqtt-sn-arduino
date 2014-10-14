@@ -15,7 +15,7 @@ cd
 wget http://downloads.arduino.cc/arduino-1.0.6-linux64.tgz
 tar xzf arduino-1.0.6-linux64.tgz
 rm arduino-1.0.6-linux64.tgz
-echo "export PATH=\$PATH:$HOME/arduino-1.0.6/" >> $HOME_DIR/.bashrc
+echo "export PATH=\$PATH:$HOME/arduino-1.0.6/" >> $HOME/.bashrc
 ```
 
 To run Arduino IDE:
