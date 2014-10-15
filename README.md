@@ -24,3 +24,9 @@ To run Arduino IDE:
 cd arduino-1.0.6/
 ./arduino 
 ```
+
+### Optionaly install Fritzing - Drawing program for Arduino schematics
+
+How to install Fritzing:
+- https://github.com/zadata/mqtt-sn-arduino/blob/master/doc/fritzing/howto_install_fritzing.md
+
