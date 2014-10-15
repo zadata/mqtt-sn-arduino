@@ -1,5 +1,5 @@
-How to install Fritzing
-=======================
+How to install Fritzing on Ubuntu 12.04 LTS 64 bit
+==================================================
 
 The official downloads are here:
 http://fritzing.org/download/
